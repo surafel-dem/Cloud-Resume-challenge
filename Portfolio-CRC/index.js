@@ -5,7 +5,9 @@
 const counter = document.querySelector("counter-visitor");
 
 async function updateCounter(){
-    let res = await fetch("https://ulrspzl7isxu5ecb6jqwzv7bgq0grfsj.lambda-url.us-east-1.on.aws/");
+    const FUN_URL = process.env.DYNAMODB_FUN_URL;
+    let res = await fetch(FUN_URL);
+    console.log(FUN_URL);
     let data = await Response.json();
     counter.innerHTML = ' Visitors: ${data}';
 }
