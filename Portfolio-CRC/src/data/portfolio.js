@@ -11,10 +11,4 @@ export default [
     stack: ["React", "AWS", "JavaScript"],
     link: "https://surafeldemissie.me/",
   },
-  {
-    title: "AWS Cloud Project Bootcamp",
-    imgUrl: "/assets/cruddur.png",
-    stack: ["AWS", "CICD", "JavaScript"],
-    link: "",
-  },
 ];
