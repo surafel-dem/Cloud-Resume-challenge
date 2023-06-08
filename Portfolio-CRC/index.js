@@ -9,7 +9,7 @@ async function updateCounter(){
     let res = await fetch(FUN_URL);
     console.log(FUN_URL);
     let data = await Response.json();
-    counter.innerHTML = ' Visitors: ${data}';
+     counter.innerHTML = 'Visitors: ${data}';
 }
 
 updateCounter();
