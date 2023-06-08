@@ -4,7 +4,7 @@ export default [
     title: "Software Engineering Executive",
     duration: "2 years",
     details:
-      "Manage technical projects & report deliverables to project members & stakeholders. Conduct research on specific technologies as required by the healthcare start-up landscape, for example the low-code/no-code apps.Support start-ups in healthcare with Mockup, Prototyping & Wireframing activities including requirement a'nalysis, design, and implementation.Development of proof of concept (POC) using Full Stack software development technologies such as MongoDB, Express, React & Node (MERN Stack).",
+      "Managing technical projects & report deliverables to project members & stakeholders. Conduct research on specific technologies as required by the healthcare start-up landscape, for example the low-code/no-code apps.Support start-ups in healthcare with Mockup, Prototyping & Wireframing activities including requirement a'nalysis, design, and implementation.Development of proof of concept (POC) using Full Stack software development technologies such as MongoDB, Express, React & Node (MERN Stack).",
   },
   {
     year: "2019",
