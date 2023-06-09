@@ -1,7 +1,7 @@
-name: Upload Website
 
+name: SyncToS3
 on:
-  push:
+   push:
     branches:
     - master
 
