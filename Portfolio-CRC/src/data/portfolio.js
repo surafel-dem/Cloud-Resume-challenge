@@ -1,6 +1,6 @@
 export default [
   {
-    title: "eHealth Embark",
+    title: "eHealth Embark Website",
     imgUrl: "/assets/embark.PNG",
     stack: ["AWS", "Lightsail", "WordPress"],
     link: "https://www.ehealth-embark.ie/",
