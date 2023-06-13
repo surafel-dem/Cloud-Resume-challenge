@@ -19,7 +19,7 @@ export default [
     title: "Lecturer",
     duration: "1 year",
     details:
-      "Given Courses: Object-Oriented programming (Java), Data structure and algorithms, Microprocessor.",
+      "Courses: Object-Oriented programming (Java), Data structure and algorithms, Microprocessor.",
   },
 
   {
