@@ -36,9 +36,6 @@ function App() {
 
 
 
-
-
-
 	const handleThemeSwitch = () => {
 		setTheme(theme === 'dark' ? 'light' : 'dark');
 	};
