@@ -1,5 +1,5 @@
 
-name: SyncToS3
+name: SyncTo_S3
 on:
    push:
     branches:
