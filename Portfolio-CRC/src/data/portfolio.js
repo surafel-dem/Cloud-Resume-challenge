@@ -6,9 +6,10 @@ export default [
     link: "https://www.ehealth-embark.ie/",
   },
   {
-    title: "Cloud Resume Challenge",
+    title: "Resume Challenge",
     imgUrl: "/assets/crc.png",
     stack: ["React", "AWS", "JavaScript"],
     link: "https://surafeldemissie.me/",
   },
 ];
+
