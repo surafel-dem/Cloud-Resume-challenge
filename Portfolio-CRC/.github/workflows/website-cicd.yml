@@ -1,9 +1,9 @@
 name: SyncTo_S3
 
 on:
-   push:
-    branches:
-    - master
+    push:
+        branches:
+             - master
 
 jobs:
   deploy:
